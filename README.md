@@ -21,7 +21,7 @@ To ensure a scalable and clean architecture, several design patterns were implem
 ##  Project Structure
 - `src/flow`: Core game mechanics and combat logic.
 - `src/flow/initialization`: JSON parsing and data loading.
-- `src/map`: Grid management and navigation.
+- `src/flow/map`: Grid management and navigation.
 - `lib/`: External dependencies (json-simple).
 
 ##  Technical Requirements
